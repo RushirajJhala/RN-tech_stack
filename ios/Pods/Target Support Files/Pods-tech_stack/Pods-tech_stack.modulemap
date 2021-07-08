@@ -1,0 +1,6 @@
+module Pods_tech_stack {
+  umbrella header "Pods-tech_stack-umbrella.h"
+
+  export *
+  module * { export * }
+}

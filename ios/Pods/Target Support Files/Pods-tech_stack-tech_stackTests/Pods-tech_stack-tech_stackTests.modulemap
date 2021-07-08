@@ -1,0 +1,6 @@
+module Pods_tech_stack_tech_stackTests {
+  umbrella header "Pods-tech_stack-tech_stackTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
